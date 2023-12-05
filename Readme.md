@@ -92,11 +92,4 @@ Contributions to this project are welcome! Feel free to open issues or pull requ
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**ScreenShots**
-![Image (![image](https://github.com/iammuirurimaina/phase3_project/assets/135036980/1c6c5fed-3d9f-4b5e-883f-ea4e5cebc568)
-![Image (![image] (![image](https://github.com/iammuirurimaina/phase3_project/assets/135036980/34d3a833-dfcf-40b4-b5bd-60bae6d28002)
-
-![Image (![image](![image](https://github.com/iammuirurimaina/phase3_project/assets/135036980/8dda3d67-11e9-4429-8e89-f21febbf7ffe)
-
-![Image (![image] (![image](https://github.com/iammuirurimaina/phase3_project/assets/135036980/88621529-71b9-4a01-b485-9d391994bbca)
 
